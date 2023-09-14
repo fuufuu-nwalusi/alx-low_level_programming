@@ -2,7 +2,7 @@
 
 /**
  * print_triangle - entry point
- * owned by Bwave/Bright Daniel
+ * owned by Olivia Uju
  * Description: Prints diagonals
  *@size: size of the triangle
  * Return: void
